@@ -23,9 +23,7 @@
 ## <div align="center">Glad to see you here!</div>  
   
 
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+I am an enthusiastic developer who is constantly seeking to learn new skills and technologies, and I enjoy collaborating with others to ensure timely project delivery. With my extensive knowledge of various programming languages and development tools, I am confident in my ability to make valuable contributions to any software development team. I approach each project with dedication and strive to deliver exceptional results that surpass expectations. Whether working independently or as part of a team, I am always seeking opportunities to enhance my skills and contribute to the success of the project.  
   
 
 <br/>  
