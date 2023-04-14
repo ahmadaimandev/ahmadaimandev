@@ -35,7 +35,7 @@ I am an enthusiastic developer who is constantly seeking to learn new skills and
 - 🔭 I’m currently develop project that related with web development.  
   
 
-- 🌱 I’m currently how to be full-stack engineer.  
+- 🌱 I’m currently learning how to be full-stack engineer.  
   
 
 - ❓ Hit me up if you have a question.  
