@@ -7,9 +7,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cs,cpp,java,nodejs,react" />
 </p>
 <p align="center">
-  <a href="#">
       <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps" />
-  </a>
 </p>
 <h3 align="center">Connect With Me ✨</h3>
 <p align="center">
