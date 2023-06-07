@@ -17,4 +17,5 @@
     <img src="https://skillicons.dev/icons?i=linkedin,codepen,instagram,twitter" />
   </a>
 </p>
-<!-- Credit to this guy 👉(https://github.com/tandpfun/skill-icons) -->
+<!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
+<!--The Website https://skillicons.dev/-->
