@@ -1,1 +1,1 @@
-<h4 class="centered-text">Hi There, Nice To Meet You ✌</h4>
+<h3 style="text-align: center;">Hi There, Nice To Meet You ✌</h3>
