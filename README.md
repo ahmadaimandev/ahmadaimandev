@@ -9,21 +9,6 @@
 <p align="center">
       <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps" />
 </p>
-<h3 align="center">Connect With Me ✨</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmadaimanzulbahari/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://codepen.io/ahmad-aiman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" />
-  </a>
-  <a href="https://twitter.com/aimanzulbahari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.instagram.com/justcallmeaiman_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
 
 <!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
 <!--The Website https://skillicons.dev/-->
