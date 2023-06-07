@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">Connect With Me ✨</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=linkedin,codepen,instagram,twitter" />
   </a>
 </p>
