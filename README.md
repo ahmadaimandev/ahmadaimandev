@@ -1,9 +1,9 @@
 <h2 align="center">Hi There, Nice To Meet You ✌</h2>
 <hr>
 
-<h4 align="center">My Tech Stack 💻</h4>
+<h3 align="center">My Tech Stack 💻</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
