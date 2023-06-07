@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio" />
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,figma,ai,ps" />
   </a>
 </p>
 <h3 align="center">Connect With Me ✨</h3>
