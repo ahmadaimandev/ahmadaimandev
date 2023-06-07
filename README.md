@@ -3,12 +3,12 @@
 <h3 align="center">My Tech Stack 💻</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cs,cpp,java,nodejs,react,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cs,cpp,java,nodejs,react" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,figma,ai,ps" />
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps" />
   </a>
 </p>
 <h3 align="center">Connect With Me ✨</h3>
