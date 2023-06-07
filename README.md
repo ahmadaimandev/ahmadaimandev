@@ -1,5 +1,4 @@
 <h2 align="center">Hi There, Nice To Meet You ✌</h2>
-<hr>
 
 <h3 align="center">My Tech Stack 💻</h3>
 <p align="center">
