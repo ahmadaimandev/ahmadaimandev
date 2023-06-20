@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, Nice To Meet You ✌</h1>
-<h3 text-align="center">
+<h3 align="center">
    Front-End Developer
 </h3>
 <div text-align="justify">
