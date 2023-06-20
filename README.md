@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cs,cpp,java,nodejs,react" />
 </p>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps,outsystem" />
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps" />
 </p>
 
 <!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
