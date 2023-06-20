@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ahmadaimandev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadaimandev&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadaimandev&theme=dracula" />
   </a>
 <!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
 <!--The Website https://skillicons.dev/-->
