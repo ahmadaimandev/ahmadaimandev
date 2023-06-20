@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, Nice To Meet You ✌</h1>
+<h1 align="center", text-transform="uppercase">Hi There, Nice To Meet You ✌</h1>
 <h3 align="center">
    Front-End Developer From Malaysia
 </h3>
