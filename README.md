@@ -12,6 +12,6 @@
 <p align="center">
       <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps" />
 </p>
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadaimandev)](https://github.com/ahmadaimandev/github-readme-stats)
 <!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
 <!--The Website https://skillicons.dev/-->
