@@ -12,5 +12,6 @@
 <p align="center">
       <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps" />
 </p>
+![ahmadaimandev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadaimandev&theme=dracula&hide_border=true)
 <!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
 <!--The Website https://skillicons.dev/-->
