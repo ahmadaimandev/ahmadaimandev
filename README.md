@@ -14,5 +14,9 @@
   <a href="https://github.com/ahmadaimandev">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadaimandev&theme=dracula" />
   </a>
+   <p align="center">
+      <a href="https://github.com/ahmadaimandev">
+         ![ahmadaimandev's Stats](https://github-readme-stats.vercel.app/api?username=ahmadaimandev&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+   </p>
 <!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
 <!--The Website https://skillicons.dev/-->
