@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">My Tech Stack ⚡</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cs,cpp,java,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,php,mysql,python,c,cs,cpp,java,nodejs,react" />
 </p>
 <p align="center">
       <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,visualstudio,git,cloudflare,figma,ai,ps" />
