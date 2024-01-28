@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,python,cs,cpp,java" />
 </p>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,git,figma,ai,ps" />
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,figma,ai,ps" />
 </p>
 <p align="center">
   <a href="https://github.com/ahmadaimandev">
