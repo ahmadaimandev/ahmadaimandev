@@ -1,18 +1,36 @@
-<h1 align="center">Hey You Finally Made It Here✌</h1>
-<h3 align="center">Front-End Developer</h3>
-<div text-align="justify">
-   I'm a motivated front-end enthusiast constantly learning and striving to improve. Although my current skill level may be average, I have a genuine passion for front-end technology and a strong desire to enhance my abilities. I actively seek opportunities to expand my skill set and stay updated with the latest trends and best practices. With a positive attitude and a readiness to face challenges, I'm eager to contribute as a valuable team member and contribute to the success of projects. I am dedicated to refining my skills and excited to further progress in front-end development.
+<h2 align="center">Hi 👋! My name is  Aiman and I'm a Front-End Developer from Malaysia</h2>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdwZWx3ZmExNjFwdHE4bHdxcmI3MTY4enBpamQwYzl2aG1weGZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2sNIiOaK2nDy/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
-<h3 align="center">My Tech Stack ⚡</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,cs,java" />
-</p>
-<p align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,figma,ai,ps" />
-</p>
-<p align="center">
-  <a href="https://github.com/ahmadaimandev">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadaimandev&theme=dracula" />
-  </a>
-<!-- Credit to this guy 👉https://github.com/tandpfun/skill-icons -->
-<!--The Website https://skillicons.dev/-->
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
+
+###
