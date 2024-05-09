@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on how to be a good developer, especially in frontend<br>🌱 I’m currently learning frontend stack technology (HTML, CSS, Javascript, React, Bootstrap)<br>⚡ Fun fact: I like coffee. Especially without sugar<br>🎞 Currently watching The Office Series</p>
+<p align="left">🔭 I’m currently working on how to be a good developer, especially in frontend<br>🌱 I’m currently learning frontend stack technology <br>⚡ Fun fact: I like coffee. Especially without sugar<br>🎞 Currently watching The Office Series</p>
 
 ###
 
