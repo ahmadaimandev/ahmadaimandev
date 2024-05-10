@@ -69,11 +69,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadaimandev&radius=15&theme=one-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
-</a>
-</p>
-
 ###
