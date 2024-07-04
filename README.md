@@ -7,23 +7,23 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="50" alt="astro logo"  />
 </div>
 
 ###
@@ -33,13 +33,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
   <img width="12" />
 </div>
 
